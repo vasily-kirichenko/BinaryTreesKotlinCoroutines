@@ -1,6 +1,7 @@
 # BinaryTreesKotlinCoroutines
 
-This is [Binary Trees benchmark](http://benchmarksgame.alioth.debian.org/u64q/program.php?test=binarytrees&lang=java&id=7) ported to Kotlin.
+This is [Binary Trees benchmark](http://benchmarksgame.alioth.debian.org/u64q/program.php?test=binarytrees&lang=java&id=7) ported to Kotlin. It allocates ~300M objects.
+
 It uses coroutines instead of an explicit thread pool.
 
 Output on Core i7-6700 Windows 10 machine, JVM 8
