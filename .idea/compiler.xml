@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="a1_main" target="1.8" />
+      <module name="a1_test" target="1.8" />
+      <module name="BinaryTreesa1_main" target="1.8" />
+      <module name="BinaryTreesa1_test" target="1.8" />
+      <module name="BinaryTreesKota1_main" target="1.8" />
+      <module name="BinaryTreesKota1_test" target="1.8" />
+      <module name="BinaryTreesKotlina1_main" target="1.8" />
+      <module name="BinaryTreesKotlina1_test" target="1.8" />
+      <module name="BinaryTreesKotlinCorouta1_main" target="1.8" />
+      <module name="BinaryTreesKotlinCorouta1_test" target="1.8" />
+      <module name="BinaryTreesKotlinCoroutinea1_main" target="1.8" />
+      <module name="BinaryTreesKotlinCoroutinea1_test" target="1.8" />
+      <module name="BinaryTreesKotlinCoroutines__main" target="1.8" />
+      <module name="BinaryTreesKotlinCoroutines__test" target="1.8" />
+      <module name="BinaryTreesKotlinCoroutines_main" target="1.8" />
+      <module name="BinaryTreesKotlinCoroutines_test" target="1.8" />
+      <module name="BinaryTreesKotlinCoroutinesa1_main" target="1.8" />
+      <module name="BinaryTreesKotlinCoroutinesa1_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

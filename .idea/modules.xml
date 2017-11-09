@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BinaryTreesKotlinCoroutines.iml" filepath="$PROJECT_DIR$/.idea/modules/BinaryTreesKotlinCoroutines.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BinaryTreesKotlinCoroutines_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BinaryTreesKotlinCoroutines_main.iml" group="BinaryTreesKotlinCoroutines" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BinaryTreesKotlinCoroutines_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BinaryTreesKotlinCoroutines_test.iml" group="BinaryTreesKotlinCoroutines" />
+    </modules>
+  </component>
+</project>
