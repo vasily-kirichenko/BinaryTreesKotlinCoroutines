@@ -8,7 +8,6 @@ class TreeNode(private val left: TreeNode? = null, private val right: TreeNode? 
 
     companion object {
         val empty = TreeNode()
-
     }
 }
 
